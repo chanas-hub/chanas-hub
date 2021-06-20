@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :
 - [E-mail](mailto:huynhdtin@gmail.com)
-- [Facebook][facebook](https://www.facebook.com/tahmkee)
+- [Facebook](https://www.facebook.com/tahmkee)
 - [Twitter](https://twitter.com/huynhductin772)
 <!---
 chanas-hub/chanas-hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
